@@ -1,0 +1,6 @@
+C:\Users\Liuyibin\Documents\Visual Studio 2015\Projects\DataMining_Assignment_5\DataMining_Assignment_5\bin\Debug\DataMining_Assignment_5.exe.config
+C:\Users\Liuyibin\Documents\Visual Studio 2015\Projects\DataMining_Assignment_5\DataMining_Assignment_5\bin\Debug\DataMining_Assignment_5.exe
+C:\Users\Liuyibin\Documents\Visual Studio 2015\Projects\DataMining_Assignment_5\DataMining_Assignment_5\bin\Debug\DataMining_Assignment_5.pdb
+C:\Users\Liuyibin\Documents\Visual Studio 2015\Projects\DataMining_Assignment_5\DataMining_Assignment_5\obj\Debug\DataMining_Assignment_5.csprojResolveAssemblyReference.cache
+C:\Users\Liuyibin\Documents\Visual Studio 2015\Projects\DataMining_Assignment_5\DataMining_Assignment_5\obj\Debug\DataMining_Assignment_5.exe
+C:\Users\Liuyibin\Documents\Visual Studio 2015\Projects\DataMining_Assignment_5\DataMining_Assignment_5\obj\Debug\DataMining_Assignment_5.pdb
